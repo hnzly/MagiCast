@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MagiCast</string>
+    <string name="action_settings">Configure</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inp_hint">What do you want to listen to?</string>
+    <string name="listen">Listen</string>
+    <string name="title_activity_listen">Listen</string>
+
+</resources>
